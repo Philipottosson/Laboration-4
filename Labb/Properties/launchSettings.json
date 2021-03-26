@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Labb": {
+      "commandName": "Project",
+      "commandLineArgs": "-add hejhej"
+    }
+  }
+}
